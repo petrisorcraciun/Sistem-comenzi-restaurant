@@ -1,7 +1,7 @@
 # Sistem-comenzi-restaurant
 
 
-<h6> Imagini: </h6>
+<h3> Imagini: </h3>
 
 <p align="center">
 <img src="http://i.epvpimg.com/TtAybab.png" height="300px">
